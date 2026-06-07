@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a Pokémon game**
 
-- 🌱 I'm currently learning **AI and DAta**
+- 🌱 I'm currently learning **Cyber Sec**
 
 - 📫 How to reach me **gabriel236gama@gmail.com**
 
